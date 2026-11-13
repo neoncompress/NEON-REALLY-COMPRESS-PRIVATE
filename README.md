@@ -13,3 +13,4 @@ A browser-based video remux/optimization site based on the NEON V2 interface. Su
 - There is no server-enforced daily limit in this version.
 - The current processing mode copies compatible streams without re-encoding; it does not sharpen or improve an already blurry source video.
 - FFmpeg.wasm needs a modern browser and sufficient memory. Keep the page open while processing.
+  
